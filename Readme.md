@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataHelper.cs](./CS/App_Code/DataHelper.cs) (VB: [DataHelper.vb](./VB/App_Code/DataHelper.vb))
+* [Model.cs](./CS/App_Code/Model.cs) (VB: [Model.vb](./VB/App_Code/Model.vb))
+* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))**
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+<!-- default file list end -->
 # How to change row font after changing the focused row in the same manner used in Outlook
 
 
