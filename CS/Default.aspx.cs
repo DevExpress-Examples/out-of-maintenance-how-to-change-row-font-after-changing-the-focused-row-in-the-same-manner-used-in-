@@ -1,5 +1,5 @@
 using System;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 public partial class _Default : System.Web.UI.Page
 {
     protected void Page_Init(object sender, EventArgs e)
